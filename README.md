@@ -1,4 +1,4 @@
-#e-shop ecommerce project
+#ecommerce project
 E-Library book is a simple library that keeps books in appropriate category/genre and implements a favourite list of book feature. E-Library requires these following tools: Spring Framework, Java, MySQL, Maven tool and TDD.
 #Features
 RestAPI that  includes the following:
